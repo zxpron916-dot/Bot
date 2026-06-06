@@ -15,7 +15,7 @@ from telegram.ext import (
     ContextTypes
 )
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8584882529:AAGFmysFasQVrhxJ6ojS1PNBDYe5W6D-CCU"
 DOWNLOAD_PATH = "downloads"
 
 os.makedirs(DOWNLOAD_PATH, exist_ok=True)
