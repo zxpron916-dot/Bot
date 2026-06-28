@@ -1,2 +1,5 @@
-python-telegram-bot
-yt-dlp
+pyrogram
+tgcrypto
+aiohttp
+requests
+urllib3
